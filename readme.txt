@@ -18,6 +18,7 @@ Use the MCode CommerceML Import plugin to to get prices for goods downloaded fro
 
 = Links =
 * [Website](https://www.mcode.su)
+* [GitHub](https://github.com/MCODEDOTSU/mcode-commerceml-import)
 
 == Installation ==
 

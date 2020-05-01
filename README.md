@@ -1,6 +1,8 @@
 # MCode CommerceML Import
 
-Welcome to the official MCode CommerceML Import repository on GitHub. MCode CommerceML Import is a WordPress plugin that allows you to import prices from a file CommerceML in your products
+Welcome to the official MCode CommerceML Import repository on GitHub. MCode CommerceML Import is a WordPress plugin that allows you to import prices from a file CommerceML in your products.
+
+GITHUB: [MCode CommerceML Import repository](https://github.com/MCODEDOTSU/mcode-commerceml-import).
 
 ## Documentation
 

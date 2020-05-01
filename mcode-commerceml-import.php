@@ -2,6 +2,7 @@
 
 /*
  * Plugin Name: CommerceML 1.0 Import by MCode
+ * Plugin URI: https://github.com/MCODEDOTSU/mcode-commerceml-import
  * Description: Import prices from a CommerceML 1.0 upload.
  * Version: 1.0
  * Author: Brykova Aliona
