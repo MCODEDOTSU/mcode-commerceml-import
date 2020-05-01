@@ -1,0 +1,30 @@
+.mcode-commerceml h1 {
+    margin: 0 0 24px;
+}
+
+.mcode-commerceml input {
+    width: 100%;
+}
+
+.mcode-commerceml table {
+    border-spacing: 0;
+    border-collapse: collapse;
+    width: 700px;
+}
+
+.mcode-commerceml table th {
+    padding: 4px 8px;
+    border: 1px solid #ddd;
+    background: #dddddd;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.mcode-commerceml table td {
+    padding: 4px 8px;
+    border: 1px solid #dddddd;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}

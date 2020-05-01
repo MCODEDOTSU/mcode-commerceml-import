@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MCode CommerceML 1.0 Import\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-01 05:47+0000\n"
+"PO-Revision-Date: 2020-05-01 05:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: import-page.php:3
+msgid "Import prices from CommerceML 1.0"
+msgstr "Импорт цен из CommerceML 1.0"
+
+#: import-page.php:9
+msgid "Import Settings"
+msgstr "Настройки импорта"
+
+#: import-page.php:11
+msgid "Currency transfer, rate:"
+msgstr "Перевод валюты, курс:"
+
+#: import-page.php:15
+msgid "Round to the number of decimal places:"
+msgstr "Округлить до количества знаков после запятой:"
+
+#: import-page.php:18
+msgid "Import file"
+msgstr "Файл импорта"
+
+#: import-page.php:20
+msgid "Import"
+msgstr "Импорт"
+
+#: import-page.php:24
+msgid "Import result"
+msgstr "Результат импорта"
+
+#: import-page.php:26
+msgid "Product"
+msgstr "Товар"
+
+#: import-page.php:27
+msgid "Old price"
+msgstr "Старая цена"
+
+#: import-page.php:28
+msgid "New price"
+msgstr "Новая цена"
+
+#: mcode-commerceml-import.php:21
+msgid "Prices Import"
+msgstr "Импорт цен"
+
+#: mcode-commerceml-import.php:49
+msgid ""
+"File upload error\n"
+msgstr "Ошибка загрузки файла"
+
+#: mcode-commerceml-import.php:114
+msgid "Import from CommerceML"
+msgstr "Импорт формата CommerceML"
+
+#: mcode-commerceml-import.php:130
+msgid "Product ID:"
+msgstr "Идентификатор товара:"
+
+#. Name of the plugin
+msgid "CommerceML 1.0 Import by MCode"
+msgstr "Импорт CommerceML 1.0 от MCode"
+
+#. Description of the plugin
+msgid "Import prices from a CommerceML 1.0 upload."
+msgstr "Импорт цен из выгрузки формата CommerceML 1.0"
+
+#. Author of the plugin
+msgid "Brykova Aliona"
+msgstr "Брыкова Алёна"
+
+#. Author URI of the plugin
+msgid "http://mcode.su/"
+msgstr "http://mcode.su/"
