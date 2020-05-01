@@ -1,6 +1,7 @@
 === MCode CommerceML Import ===
 Contributors: leliaOff
 Tags: import, commerceml, price, woocommerce, trunk
+Requires at least: 4.7.0
 Tested up to: 5.5
 Requires PHP: 5.5
 License: GPLv2 or later
